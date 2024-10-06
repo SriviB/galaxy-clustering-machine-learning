@@ -12,4 +12,5 @@ This repository contains the research paper that explores the application of the
 
 - **Research Paper**: The main document detailing the research methodology, results, and conclusions.
 - **Data**: A dataset used for the analysis.
+- **Code**: Implementation of the K-means clustering algorithm and any associated scripts used in the analysis.
 - **Results**: Visualizations and summaries of the findings.
